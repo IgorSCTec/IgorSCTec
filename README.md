@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgorSCTec
+- 👋 Hi, I’m Igor Costa
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning C#, HTML, CSS and JS.
 - 📫 How to reach me: LinkedIn.
